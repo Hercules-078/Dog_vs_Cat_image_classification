@@ -9,7 +9,7 @@ Training Accuracy: 97.00% | Training Loss: 0.0855\
 Validation Accuracy: 77.28% | Validation Loss: 1.0421
 
 ## Transfer Learning without Data Augmentation
-Implemented transfer learning using pre-trained models with data augmentation techniques.\
+Implemented transfer learning using pre-trained models without data augmentation techniques.\
 Performance:\
 Training Accuracy: 92.86% | Training Loss: 0.1697 \
 Validation Accuracy: 91.48% | Validation Loss: 0.1993
